@@ -1,0 +1,10 @@
+beach
+field
+lake
+mountain
+office
+park
+restaurant
+street
+supermarket
+village
